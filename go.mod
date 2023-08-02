@@ -6,7 +6,7 @@ require (
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.0
 	github.com/boss-net/goutils v0.0.5
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/net v0.12.0
+	golang.org/x/net v0.13.0
 )
 
 require (
